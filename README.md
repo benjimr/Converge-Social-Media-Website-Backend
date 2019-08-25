@@ -1,6 +1,4 @@
-# Converge
-
-This is a basic social media website operating similarly to websites such as Reddit, allowing users to create posts and comment on them. 
+The goal of this project was to create a basic social media website operating similarly to websites such as Reddit, allowing users to create posts and comment on them. 
 
 The UI/UX was not the focus, just the the backend and how the front end connects, as such the html is very basic. The main goal was to implement some desgin concepts, such as Front Controller, Command Factory, Data Access Objects and Singleton Objects.
 
